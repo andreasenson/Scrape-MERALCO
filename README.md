@@ -1,6 +1,6 @@
 # Scrape-MERALCO
 
-Scrape MERALCO (All) scrapes data from MERALCO's Rates Archives from August 2012 to present. \
-Scrape MERALCO (Use Case) scrapes data from MERALCO's Rates Archives based on user-defined year and month.
+Scrape MERALCO (Historical) scrapes data from MERALCO's Rates Archives from August 2012 to present. \
+Scrape MERALCO (API) scrapes data from MERALCO's Rates Archives based on user-defined year and month.
 
 -- Dory 🐟
